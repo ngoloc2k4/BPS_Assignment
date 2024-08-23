@@ -1,0 +1,201 @@
+product_id,product_name,product_price,product_stock,product_description,product_group_id
+1,"Smartphone XYZ",599,100,"Feature-packed smartphone with XYZ capabilities.",1
+2,"Laptop ABC",1099,50,"High-performance laptop with ABC processor.",1
+3,"Refrigerator Model 123",899,30,"Energy-efficient refrigerator with advanced cooling features.",2
+4,"Outdoor Tent",199,200,"Durable tent suitable for camping and outdoor activities.",20
+5,"Men's Casual Shirt",39,300,"Comfortable cotton shirt for everyday wear.",3
+6,"Living Room Sofa Set",799,20,"Elegant sofa set for living room decor.",4
+7,"Children's Story Book Collection",29,500,"Set of popular children's story books.",5
+8,"Educational Toy Set",49,150,"Interactive educational toys for toddlers.",6
+9,"Home Gym Equipment",699,15,"Complete home gym setup for fitness enthusiasts.",7
+10,"Skincare Kit",79,200,"Complete skincare regimen for healthy skin.",8
+11,"Diamond Necklace",2999,5,"Exquisite diamond necklace for special occasions.",9
+12,"Medical Wheelchair",399,10,"Foldable wheelchair for medical use.",10
+13,"Organic Food Basket",59,100,"Assorted organic food items and snacks.",11
+14,"Office Stationery Bundle",19,500,"Basic stationery items for office use.",12
+15,"Gardening Tool Kit",129,50,"Essential tools for gardening and landscaping.",13
+16,"Car Engine Oil",29,300,"High-quality engine oil for automotive maintenance.",14
+17,"Pet Grooming Kit",49,100,"Complete grooming kit for pets.",15
+18,"Music Album Collection",9,1000,"Assorted music albums in various genres.",16
+19,"Artists' Paint Set",39,200,"Complete paint set for artists and hobbyists.",17
+20,"Home Decorative Vase",49,150,"Elegant decorative vase for home interiors.",18
+21,"Travel Backpack",79,300,"Durable backpack with multiple compartments for travel.",19
+22,"Camping Sleeping Bag",59,200,"Warm and comfortable sleeping bag for camping.",20
+23,"Smartphone ABC",699,100,"Feature-packed smartphone with ABC capabilities.",1
+24,"Laptop XYZ",1299,50,"High-performance laptop with XYZ processor.",1
+25,"Refrigerator Model 456",999,30,"Energy-efficient refrigerator with advanced cooling features.",2
+26,"Outdoor Hammock",149,200,"Comfortable hammock suitable for outdoor relaxation.",20
+27,"Women's Formal Dress",59,300,"Elegant formal dress for women.",3
+28,"Bedroom Wardrobe",899,20,"Spacious wardrobe for bedroom storage.",4
+29,"Children's Educational Book Set",39,500,"Set of educational books for children.",5
+30,"Building Blocks Set",29,150,"Colorful building blocks for creative play.",6
+31,"Yoga Mat and Accessories",79,15,"Complete yoga mat and accessories set.",7
+32,"Makeup Kit",89,200,"Complete makeup kit for beauty enthusiasts.",8
+33,"Pearl Necklace",1999,5,"Exquisite pearl necklace for special occasions.",9
+34,"Medical Crutches",299,10,"Adjustable medical crutches for mobility assistance.",10
+35,"Healthy Snack Pack",39,100,"Assorted healthy snacks and beverages.",11
+36,"School Backpack",29,500,"Durable backpack for school and travel.",12
+37,"Gardening Gloves",19,50,"Comfortable gardening gloves for outdoor tasks.",13
+38,"Car Seat Cover",39,300,"Protective seat cover for cars.",14
+39,"Pet Food Variety Pack",29,100,"Assorted pet food flavors for pets.",15
+40,"Movie DVD Collection",19,1000,"Assorted movie DVDs in various genres.",16
+41,"Watercolor Paint Set",29,200,"Complete watercolor paint set for artists.",17
+42,"Home Decorative Cushion",19,150,"Soft decorative cushion for home interiors.",18
+43,"Travel Luggage Set",129,300,"Durable luggage set for travel.",19
+44,"Camping Lantern",39,200,"Portable lantern for camping and outdoor use.",20
+45,"Smartwatch XYZ",399,100,"Feature-packed smartwatch with XYZ capabilities.",1
+46,"Gaming Laptop ABC",1499,50,"High-performance gaming laptop with ABC processor.",1
+47,"Refrigerator Model 789",1099,30,"Energy-efficient refrigerator with advanced cooling features.",2
+48,"Outdoor Backpack",79,200,"Durable backpack suitable for outdoor adventures.",20
+49,"Men's Formal Suit",199,300,"Classic formal suit for men.",3
+50,"Home Office Desk",499,20,"Stylish desk for home office setup.",4
+51,"Children's Puzzle Game",19,500,"Educational puzzle game for children.",5
+52,"Board Game Set",49,150,"Collection of popular board games for family fun.",6
+53,"Fitness Tracker",49,15,"Advanced fitness tracker for health monitoring.",7
+54,"Cosmetic Gift Set",59,200,"Luxurious cosmetic gift set for special occasions.",8
+55,"Gold Bracelet",999,5,"Elegant gold bracelet for special occasions.",9
+56,"Medical Walker",199,10,"Sturdy medical walker for mobility assistance.",10
+57,"Organic Juice Pack",19,100,"Assorted organic juices and beverages.",11
+58,"Writing Pad Set",9,500,"Basic writing pad set for everyday use.",12
+59,"Gardening Shears",29,50,"Sharp gardening shears for precise cutting.",13
+60,"Car Air Freshener",9,300,"Long-lasting car air freshener.",14
+61,"Pet Toy Set",19,100,"Assorted pet toys for entertainment.",15
+62,"Classic Movie DVD Collection",29,1000,"Classic movie DVDs collection.",16
+63,"Oil Paint Set",49,200,"Complete oil paint set for artists.",17
+64,"Home Decorative Lamp",69,150,"Decorative lamp for ambient lighting.",18
+65,"Travel Duffle Bag",49,300,"Versatile duffle bag for travel.",19
+66,"Camping Cookware Set",79,200,"Compact cookware set for camping.",20
+67,"Smartphone DEF",799,100,"Feature-packed smartphone with DEF capabilities.",1
+68,"Laptop UVW",999,50,"High-performance laptop with UVW processor.",1
+69,"Refrigerator Model 246",1099,30,"Energy-efficient refrigerator with advanced cooling features.",2
+70,"Outdoor Folding Chair",29,200,"Portable folding chair for outdoor use.",20
+71,"Women's Casual Pants",49,300,"Comfortable casual pants for women.",3
+72,"Office Desk Chair",199,20,"Ergonomic office desk chair for comfort.",4
+73,"Children's Coloring Book Set",19,500,"Set of coloring books for children.",5
+74,"Chess Set",39,150,"Classic chess set for strategic gameplay.",6
+75,"Running Shoes",79,15,"High-quality running shoes for sports.",7
+76,"Perfume Gift Set",69,200,"Fragrant perfume gift set for special occasions.",8
+77,"Silver Earrings",499,5,"Stylish silver earrings for everyday wear.",9
+78,"Medical Walker with Seat",299,10,"Foldable medical walker with seat for mobility.",10
+79,"Organic Tea Assortment",9,100,"Assorted organic tea flavors.",11
+80,"School Lunch Box",19,500,"Durable lunch box for school and work.",12
+81,"Gardening Trowel",9,50,"Sturdy gardening trowel for planting.",13
+82,"Car Dashboard Camera",49,300,"HD dashboard camera for car security.",14
+83,"Pet Bed",39,100,"Comfortable pet bed for resting.",15
+84,"Documentary DVD Collection",29,1000,"Assorted documentary DVDs collection.",16
+85,"Acrylic Paint Set",39,200,"Complete acrylic paint set for artists.",17
+86,"Home Decorative Clock",29,150,"Decorative clock for home decor.",18
+87,"Travel Sleeping Bag",59,300,"Compact sleeping bag for travel and camping.",19
+88,"Camping Stove",99,200,"Portable camping stove for outdoor cooking.",20
+89,"Smartphone GHI",899,100,"Feature-packed smartphone with GHI capabilities.",1
+90,"Gaming Laptop XYZ",1699,50,"High-performance gaming laptop with XYZ processor.",1
+91,"Refrigerator Model 579",1199,30,"Energy-efficient refrigerator with advanced cooling features.",2
+92,"Outdoor Portable Table",59,200,"Portable table for outdoor picnics and camping.",20
+93,"Men's Sports Shorts",29,300,"Comfortable sports shorts for men.",3
+94,"Study Desk",299,20,"Compact study desk for students.",4
+95,"Children's Learning Tablet",79,500,"Interactive learning tablet for children.",5
+96,"Card Game Set",19,150,"Collection of card games for social gatherings.",6
+97,"Bicycle",299,15,"Stylish bicycle for recreational riding.",7
+98,"Skincare Gift Set",99,200,"Luxurious skincare gift set for pampering.",8
+99,"Platinum Ring",3999,5,"Exquisite platinum ring for special occasions.",9
+100,"Medical Stretcher",499,10,"Foldable medical stretcher for emergency use.",10
+101,"Organic Coffee Pack",29,100,"Assorted organic coffee beans.",11
+102,"School Backpack with Wheels",39,500,"Rolling backpack for easy transport.",12
+103,"Gardening Watering Can",19,50,"Sturdy watering can for garden watering.",13
+104,"Car Sunshade",9,300,"Foldable car sunshade for sun protection.",14
+105,"Pet Carrier",59,100,"Comfortable pet carrier for travel.",15
+106,"Classic Music CD Collection",19,1000,"Classic music CDs collection.",16
+107,"Sketching Pencil Set",29,200,"Complete sketching pencil set for artists.",17
+108,"Home Decorative Mirror",39,150,"Decorative mirror for home decor.",18
+109,"Travel Backpack with USB Port",89,300,"Backpack with USB port for charging devices.",19
+110,"Camping Multi-tool",49,200,"Versatile multi-tool for camping.",20
+111,"Smartwatch ABC",499,100,"Feature-packed smartwatch with ABC capabilities.",1
+112,"Gaming Laptop UVW",1799,50,"High-performance gaming laptop with UVW processor.",1
+113,"Refrigerator Model 345",1299,30,"Energy-efficient refrigerator with advanced cooling features.",2
+114,"Outdoor Portable Chair",19,200,"Portable chair for outdoor relaxation.",20
+115,"Women's Sports Bra",19,300,"Supportive sports bra for women.",3
+116,"Office File Cabinet",399,20,"Spacious file cabinet for office organization.",4
+117,"Children's Science Experiment Kit",59,500,"Interactive science experiments for children.",5
+118,"Puzzle Set",29,150,"Collection of challenging puzzles for entertainment.",6
+119,"Treadmill",999,15,"High-quality treadmill for indoor workouts.",7
+120,"Makeup Brushes Set",29,200,"Complete set of makeup brushes.",8
+121,"Emerald Necklace",4999,5,"Exquisite emerald necklace for special occasions.",9
+122,"Medical Oxygen Tank",799,10,"Portable medical oxygen tank for health emergencies.",10
+123,"Organic Snack Pack",39,100,"Assorted organic snacks and treats.",11
+124,"School Lunch Bag",9,500,"Insulated lunch bag for school and work.",12
+125,"Gardening Rake",19,50,"Durable gardening rake for soil leveling.",13
+126,"Car Phone Holder",9,300,"Secure phone holder for car use.",14
+127,"Pet Leash",19,100,"Durable pet leash for walking.",15
+128,"Action Movie DVD Collection",29,1000,"Collection of action movie DVDs.",16
+129,"Calligraphy Pen Set",49,200,"Complete calligraphy pen set for artists.",17
+130,"Home Decorative Sculpture",49,150,"Artistic sculpture for home decor.",18
+131,"Travel Neck Pillow",19,300,"Comfortable neck pillow for travel.",19
+132,"Camping First Aid Kit",39,200,"Comprehensive first aid kit for camping.",20
+133,"Smartphone JKL",999,100,"Feature-packed smartphone with JKL capabilities.",1
+134,"Gaming Laptop PQR",1999,50,"High-performance gaming laptop with PQR processor.",1
+135,"Refrigerator Model 678",1399,30,"Energy-efficient refrigerator with advanced cooling features.",2
+136,"Outdoor Portable Grill",129,200,"Portable grill for outdoor cooking.",20
+137,"Men's Winter Jacket",99,300,"Warm winter jacket for men.",3
+138,"Home Office Chair",299,20,"Comfortable chair for home office setup.",4
+139,"Children's Building Blocks",19,500,"Colorful building blocks for creative play.",5
+140,"Chess Board",19,150,"Classic chess board for strategic gameplay.",6
+141,"Exercise Bike",499,15,"Sturdy exercise bike for indoor workouts.",7
+142,"Nail Care Kit",19,200,"Complete nail care kit for manicures.",8
+143,"Ruby Ring",2999,5,"Exquisite ruby ring for special occasions.",9
+144,"Medical Blood Pressure Monitor",199,10,"Digital blood pressure monitor for health monitoring.",10
+145,"Organic Chocolate Assortment",19,100,"Assorted organic chocolates.",11
+146,"School Water Bottle",9,500,"Reusable water bottle for school and work.",12
+147,"Gardening Shovel",29,50,"Heavy-duty gardening shovel for digging.",13
+148,"Car USB Charger",9,300,"Fast-charging USB charger for cars.",14
+149,"Pet Collar",9,100,"Comfortable pet collar for everyday use.",15
+150,"Comedy Movie DVD Collection",19,1000,"Collection of comedy movie DVDs.",16
+151,"Oil Pastel Set",29,200,"Complete oil pastel set for artists.",17
+152,"Home Decorative Wall Art",59,150,"Artistic wall art for home decor.",18
+153,"Travel Headphones",59,300,"Noise-canceling headphones for travel.",19
+154,"Camping Portable Toilet",79,200,"Portable toilet for camping and outdoor use.",20
+155,"Smartphone MNO",1099,100,"Feature-packed smartphone with MNO capabilities.",1
+156,"Gaming Laptop STU",2199,50,"High-performance gaming laptop with STU processor.",1
+157,"Refrigerator Model 789",1499,30,"Energy-efficient refrigerator with advanced cooling features.",2
+158,"Outdoor Portable Cooler",199,200,"Portable cooler for keeping beverages cold outdoors.",20
+159,"Women's Winter Coat",149,300,"Stylish winter coat for women.",3
+160,"Home Office Desk Lamp",99,20,"Adjustable desk lamp for home office use.",4
+161,"Children's Art Supplies Set",29,500,"Complete art supplies set for children.",5
+162,"Playing Cards Set",9,150,"Pack of playing cards for various card games.",6
+163,"Rowing Machine",899,15,"Effective rowing machine for full-body workouts.",7
+164,"Makeup Organizer",39,200,"Compact organizer for storing makeup.",8
+165,"Sapphire Necklace",3999,5,"Exquisite sapphire necklace for special occasions.",9
+166,"Medical Heart Rate Monitor",149,10,"Portable heart rate monitor for health tracking.",10
+167,"Organic Snack Box",29,100,"Assorted organic snacks in a convenient box.",11
+168,"School Pencil Case",9,500,"Durable pencil case for school supplies.",12
+169,"Gardening Hoe",19,50,"Sturdy gardening hoe for soil cultivation.",13
+170,"Car Vacuum Cleaner",29,300,"Portable vacuum cleaner for car cleaning.",14
+171,"Pet Grooming Brush",19,100,"Gentle grooming brush for pets.",15
+172,"Drama Movie DVD Collection",19,1000,"Collection of drama movie DVDs.",16
+173,"Watercolor Brush Set",29,200,"Complete watercolor brush set for artists.",17
+174,"Home Decorative Candle Holder",29,150,"Decorative candle holder for home decor.",18
+175,"Travel Adapter",19,300,"Universal travel adapter for worldwide use.",19
+176,"Camping Waterproof Tent",199,200,"Waterproof tent for camping in all weather conditions.",20
+177,"Smartwatch DEF",599,100,"Feature-packed smartwatch with DEF capabilities.",1
+178,"Gaming Laptop WXY",2399,50,"High-performance gaming laptop with WXY processor.",1
+179,"Refrigerator Model 234",1599,30,"Energy-efficient refrigerator with advanced cooling features.",2
+180,"Outdoor Portable Hammock",149,200,"Portable hammock for outdoor relaxation.",20
+181,"Men's Summer Shorts",19,300,"Lightweight summer shorts for men.",3
+182,"Home Office Desk Chair",399,20,"Ergonomic desk chair for home office comfort.",4
+183,"Children's Educational Puzzle",29,500,"Educational puzzle for children's learning.",5
+184,"Card Game Pack",19,150,"Pack of card games for entertainment.",6
+185,"Elliptical Trainer",1299,15,"High-quality elliptical trainer for full-body workouts.",7
+186,"Makeup Storage Box",49,200,"Spacious storage box for organizing makeup.",8
+187,"Topaz Necklace",1999,5,"Exquisite topaz necklace for special occasions.",9
+188,"Medical Scale",99,10,"Digital medical scale for accurate weight measurement.",10
+189,"Organic Cookie Assortment",19,100,"Assorted organic cookies and biscuits.",11
+190,"School Messenger Bag",29,500,"Durable messenger bag for school and work.",12
+191,"Gardening Pruning Shears",9,50,"Sharp pruning shears for precise gardening.",13
+192,"Car Floor Mats",19,300,"Durable floor mats for car interior protection.",14
+193,"Pet Water Fountain",39,100,"Automatic water fountain for pets.",15
+194,"Thriller Movie DVD Collection",29,1000,"Collection of thriller movie DVDs.",16
+195,"Charcoal Drawing Set",39,200,"Complete charcoal drawing set for artists.",17
+196,"Home Decorative Wall Clock",39,150,"Elegant wall clock for home decor.",18
+197,"Travel Digital Camera",299,300,"Compact digital camera for travel photography.",19
+198,"Camping Backpacking Tent",179,200,"Lightweight tent for backpacking and camping.",20
+199,"Smartphone PQR",1299,100,"Feature-packed smartphone with PQR capabilities.",1
+200,"Gaming Laptop XYZ",2599,50,"High-performance gaming laptop with XYZ processor.",1
