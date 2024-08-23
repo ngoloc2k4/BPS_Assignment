@@ -56,3 +56,48 @@ print(merged_data)
 
 print('Total Sales:', total_sales , 'USD')
 #------------------------------------------------------------------------------------------#
+
+###4. Applying Pandas for data cleaning and preprocessing
+
+import pandas as pd
+
+# Load data
+df = pd.read_csv('sales_data.csv')
+
+# Handle missing data
+df.fillna(method='ffill', inplace=True)
+
+# Remove duplicates
+df.drop_duplicates(inplace=True)
+
+# Convert date column to datetime
+df['Sale_Date'] = pd.to_datetime(df['Sale_Date'])
+
+
+#------------------------------------------------------------------------------------------#
+
+###5. Data Visualization
+
+# Importing the required libraries
+import matplotlib
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Plotting a bar chart for total sales by product category
+plt.figure(figsize=(10, 6))
+sns.barplot(x='product_category', y='total_sales', data=merged_data)
+plt.title('Total Sales by Product Category')
+plt.xlabel('Product Category')
+plt.ylabel('Total Sales (USD)')
+plt.xticks(rotation=45)
+plt.show()
+
+
+# Using matplotlib to plot a line chart for total sales over time
+plt.figure(figsize=(10, 6))
+plt.plot(merged_data['Sale_Date'], merged_data['total_sales'])
+plt.title('Total Sales Over Time')
+plt.xlabel('Date')
+plt.ylabel('Total Sales (USD)')
+plt.xticks(rotation=45)
+plt.show()
